@@ -173,8 +173,9 @@ body {
   cursor: pointer;
 }
 
-.our-service {
-  padding: 120px 0;
+.our-service .container {
+  padding-top: 120px;
+  padding-bottom: 120px;
 }
 
 .visually-hidden {
