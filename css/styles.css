@@ -131,7 +131,7 @@ body {
 
 .business-solution {
   background-color: #2e2f42;
-  padding: 120px 0;
+  padding: 188px 0;
 }
 
 .main-text {
@@ -312,14 +312,14 @@ body {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  padding: 120px 0;
 }
 .ul-portfolio {
   display: flex;
   flex-wrap: wrap;
   gap: 48px 24px;
   padding-bottom: 92px;
-  padding-top: 120px;
-  padding-bottom: 120px;
+  padding: 120px 0;
 }
 .portfolio-wrapper {
   display: flex;
