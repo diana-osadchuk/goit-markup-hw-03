@@ -173,9 +173,8 @@ body {
   cursor: pointer;
 }
 
-.our-service .container {
-  padding-top: 120px;
-  padding-bottom: 120px;
+.our-services {
+  padding: 120px 0;
 }
 
 .visually-hidden {
@@ -199,13 +198,11 @@ body {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
-  padding: 120px 0;
 }
 
 .service-list {
   display: flex;
   gap: 24px;
-  padding: 120px 0;
 }
 
 .service-item {
@@ -217,7 +214,6 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
-  padding: 120px 0;
 }
 .topics {
   font-weight: 500;
